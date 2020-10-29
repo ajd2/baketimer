@@ -1,3 +1,3 @@
-Code for app at http://https://baketime.herokuapp.com/
+Code for app at https://baketime.herokuapp.com/
 
-By dicko 
+By dicko
