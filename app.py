@@ -16,7 +16,7 @@ def baking_times():
 
     starttime = start["time"]
 
-    realtime = parser.parse(starttime)  #takes input from index.html and converts into readable time
+    realtime = parser.parse(starttime)  #takes input from index.html & converts into readable time
 
 # sets time intevals for each step of recipe with 12-hour rise time
     dough_ready12 = realtime + datetime.timedelta(hours=12)
